@@ -1,0 +1,15 @@
+C:\Users\Maxx\source\repos\project3\project3\bin\Debug\net7.0\project3.exe
+C:\Users\Maxx\source\repos\project3\project3\bin\Debug\net7.0\project3.deps.json
+C:\Users\Maxx\source\repos\project3\project3\bin\Debug\net7.0\project3.runtimeconfig.json
+C:\Users\Maxx\source\repos\project3\project3\bin\Debug\net7.0\project3.dll
+C:\Users\Maxx\source\repos\project3\project3\bin\Debug\net7.0\project3.pdb
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\project3.csproj.AssemblyReference.cache
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\project3.AssemblyInfoInputs.cache
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\project3.AssemblyInfo.cs
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\project3.csproj.CoreCompileInputs.cache
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\project3.dll
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\refint\project3.dll
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\project3.pdb
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\project3.genruntimeconfig.cache
+C:\Users\Maxx\source\repos\project3\project3\obj\Debug\net7.0\ref\project3.dll
